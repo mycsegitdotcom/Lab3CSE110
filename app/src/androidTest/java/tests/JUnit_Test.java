@@ -5,6 +5,7 @@ import android.test.ActivityInstrumentationTestCase2;
 import android.widget.TextView;
 
 import com.example.yoey.testproject.MainActivity;
+import com.example.yoey.testproject.R;
 
 /**
  * Created by yoey on 4/13/16.
